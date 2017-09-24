@@ -1,0 +1,14 @@
+[
+  { "len": 31, "color": "#00CED1", "label": "January", "id": "january" },
+  { "len": 28, "color": "#00CED1", "label": "February", "id": "february" },
+  { "len": 31, "color": "#00CED1", "label": "March", "id": "march" },
+  { "len": 30, "color": "#00CED1", "label": "April", "id": "april" },
+  { "len": 31, "color": "#00CED1", "label": "May", "id": "may" },
+  { "len": 30, "color": "#00CED1", "label": "June", "id": "june" },
+  { "len": 31, "color": "#00CED1", "label": "July", "id": "july" },
+  { "len": 31, "color": "#00CED1", "label": "August", "id": "august" },
+  { "len": 30, "color": "#00CED1", "label": "September", "id": "september" },
+  { "len": 31, "color": "#00CED1", "label": "October", "id": "october" },
+  { "len": 30, "color": "#00CED1", "label": "November", "id": "november" },
+  { "len": 31, "color": "#00CED1", "label": "December", "id": "december" }
+]
