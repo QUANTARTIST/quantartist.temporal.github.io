@@ -1,4 +1,4 @@
-﻿<h1>MICA | Visualizing Temporal Forms<br>
+﻿<h1>MICA | Visualizing Temporal Data<br>
 <h2>Grappling With Time!</h2><br>
 This visualization can be accessed here: <br><br>
 https://quantartist.github.io/quantartist.temporal.github.io/  <br><br>
