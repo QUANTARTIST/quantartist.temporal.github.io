@@ -23,10 +23,18 @@ h4{
   color:white;
   background-color:#8dd3c7;;
 }
+#tiny{
+  font-size: x-small;
+  font-style: italic;
+}
 #para{
   text-align: center;
   margin-left: 130px;
   margin-right: 130px;
+}
+#dark{
+  color:darkorange;
+  font-weight: bold;
 }
 
  .mdl-button{
