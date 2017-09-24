@@ -18,9 +18,22 @@ h1{
   text-align: center;
 
 }
+h4{
+  text-align: center;
+  color:white;
+  background-color:#8dd3c7;;
+}
+#para{
+  text-align: center;
+  margin-left: 280px;
+  margin-right: 280px;
+}
 
  .mdl-button{
   text-align: center;
+}
+#note{
+  font-style: italic;
 }
 
  html, body {
